@@ -1,0 +1,2 @@
+# Tendermint
+本课程适合希望使用tendermint进行区块链开发的工程师，课程内容即包括tendermint应用开发模型中的核心概念，例如ABCI接口、默克尔树、多版本状态库等，也包括代币发行等丰富的实操代码，是go语言工程师快速入门区块链开发的最佳选择。http://xc.hubwiz.com/course/5bdec63ac02e6b6a59171df3?affid=1111github
